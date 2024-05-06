@@ -4,7 +4,7 @@ C++ Math Game
 Introduction
 ------------
 
-This C++ Math Game Console App is a simple program designed to help users practice their arithmetic skills through a series of randomly generated math questions. Users can customize the number of questions, choose the difficulty level, and select the type of operations they want to focus on. The game provides instant feedback on each answer and summarizes the user's performance at the end of the session.
+This C++ Math Game Console App is a simple program designed using functional programming principles to help users practice their arithmetic skills through a series of randomly generated math questions. Users can customize the number of questions, choose the difficulty level, and select the type of operations they want to focus on. The game provides instant feedback on each answer and summarizes the user's performance at the end of the session.
 
 Features
 --------
